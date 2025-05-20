@@ -1,3 +1,12 @@
-body{
-color:red;
-}
+<div style="
+ position: absolute;
+ top: 40%;
+ left: 50%;
+ transform: translate(-50%, -50%) rotate(-30deg);
+ font-size 4rem;
+ color: rgba(200, 0, 0, 0.15);
+ font-weight: bold;
+ z-index: 0;
+ text-align: center;
+ pointer-event: none;
+">
